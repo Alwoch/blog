@@ -1,4 +1,4 @@
-# About dojo-blog
+# blog
 
-I replicated this probject while while following a tutorial on learning react.
+blog app created in reactjs
 
